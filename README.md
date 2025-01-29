@@ -7,6 +7,7 @@ I'm a software/Systems Engineering student at EAFIT University. I love exploring
 
 ## About Me
 
+
 ## Languages
 - Spanish (Native)
 - English (B1)
@@ -39,4 +40,6 @@ I'm a software/Systems Engineering student at EAFIT University. I love exploring
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50">
 </div>
 
-Feel free to check out my repositories and connect with me. I'm always open to new ideas and collaborations!
+<br>
+
+Feel free to visit my repositories and connect with me. I'm always open to new ideas and learnings!
