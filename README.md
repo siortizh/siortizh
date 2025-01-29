@@ -1,4 +1,4 @@
-# Hi there! I'm Sara Isabel Ortiz
+# Hi there! I'm Sara Isabel
 
 I'm a passionate Software/Systems Engineering student at EAFIT University. I love exploring the world of technology and coding
 
