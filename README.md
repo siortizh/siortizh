@@ -1,6 +1,6 @@
 # Hi there! I'm Sara Isabel
 
-I'm a passionate Software/Systems Engineering student at EAFIT University. I love exploring the world of technology and coding
+I'm a software/Systems Engineering student at EAFIT University. I love exploring the world of technology and coding
 
 ## Contact me
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/in/sara-isabel-ortiz-371046326)
